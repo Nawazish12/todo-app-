@@ -1,0 +1,26 @@
+body{
+    text-align: center;  
+    background-image: url("hand-565588_960_720.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+input{
+    font-size: large;
+    width: 150px;
+    border-radius: 50px;
+    margin-top: 60px;
+    
+}
+button{
+    width: 65px;
+    height:27px;
+    margin-top: 10px;
+    border-radius: 50px;
+    margin-left: 2px;
+   
+}
+ul>li{
+    text-decoration: none;
+}
